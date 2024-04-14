@@ -5,8 +5,6 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-//import com.example.helpmelift.databinding.ActivityAbsMusclesBinding;
-
 public class AbsMuscle extends AppCompatActivity {
 
     //private ActivityAbsMusclesBinding binding;

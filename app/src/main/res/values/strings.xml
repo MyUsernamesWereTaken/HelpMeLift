@@ -134,4 +134,6 @@
     <string name="Tricep_Kickback">Tricep Kickbacks</string>
     <string name="Overhead_Tricep_Extensions">Overhead Tricep Extension</string>
     <string name="Tricep_Pushdown">Tricep Pushdown</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

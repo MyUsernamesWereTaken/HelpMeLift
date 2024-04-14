@@ -26,7 +26,6 @@ import com.example.helpmelift.QuadsMuscle;
 import com.example.helpmelift.HamstringMuscle;
 import com.example.helpmelift.CalvesMuscle;
 import com.example.helpmelift.ForearmsMuscle;
-
 import com.example.helpmelift.R;
 import com.example.helpmelift.databinding.FragmentMusclegroupsBinding;
 

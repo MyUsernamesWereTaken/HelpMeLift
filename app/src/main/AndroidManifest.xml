@@ -148,7 +148,7 @@
             android:name=".ui.AbsWorkout.situps"
             android:exported="true" />
         <activity
-            android:name=".ui.AbsWorkout.crunch"
+            android:name=".Abs_crunch"
             android:exported="true" />
         <activity
             android:name=".AbsMuscle"
